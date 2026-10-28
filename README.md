@@ -1,62 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2de,100:ff6fb5&height=190&section=header&text=Varnika%20Yadav&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%E2%80%9928&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12284B,55:0055A0,100:438BC4&height=210&section=header&text=Varnika%20Yadav&fontColor=FFF8E7&fontSize=52&fontAlignY=38&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%E2%80%9928&descAlignY=60&descSize=20&descColor=8CC1E9" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FF6FB5&center=true&vCenter=true&width=460&lines=building+things+that+actually+help+people+%E2%9C%A8;python+%C2%B7+javascript+%C2%B7+kotlin+%C2%B7+c;learning+something+new+every+day+%F0%9F%8C%B8" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=8CC1E9&center=true&vCenter=true&width=560&lines=real-time+systems+%C2%B7+AI+agents+%C2%B7+systems+in+C;24-hour+hackathon+builder;writes+unix+shells+for+fun;CS+%2B+Math+%40+Penn+State+%E2%80%9928" alt="typing" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff9ecf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varnika-yadav-vvy5053)
-![Location](https://img.shields.io/badge/Pennsylvania-ffc2de?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Pronouns](https://img.shields.io/badge/she%2Fher-ff6fb5?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0055A0?style=for-the-badge&logo=linkedin&logoColor=FFF8E7)](https://www.linkedin.com/in/varnika-yadav-vvy5053)
+![Penn State](https://img.shields.io/badge/Penn_State-12284B?style=for-the-badge&logoColor=FFF8E7)
+![Class](https://img.shields.io/badge/Class_of_2028-438BC4?style=for-the-badge&logoColor=FFF8E7)
+![Pronouns](https://img.shields.io/badge/she%2Fher-8CC1E9?style=for-the-badge&logoColor=12284B)
 
 </div>
 
 ---
 
-### 🌷 About me
+### 🌊 About me
 
-Hi, I'm **Varnika**, a CS + Math student at **Penn State (class of 2028)**.
-I like turning small ideas into working apps, from tools that track your budget to apps that fact-check the internet.
+I'm a **CS + Math student at Penn State (class of 2028)** who learns by shipping.
+I've built a real-time fall-detection system at a 24-hour hackathon, a Unix shell in C from scratch, and I'm now working on AI agents for payroll and founder matching.
 
-- 🔭 Currently building: **hyphenatable** and **superset-WYJ**
-- 🌱 Getting better at: full-stack apps, AI-powered tools, systems in C
-- 💬 Ask me about: hackathon projects, math + code, cats, horses and memes
-
----
-
-### 🎀 Tech stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-ff9ecf?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb3d6?style=for-the-badge&logo=javascript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-ff6fb5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-ffc2de?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff9ecf?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ff85c0?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- 🔭 **Currently building:** [RollPay](https://github.com/Devaj6190/hyphenatable), an AI payroll agent, and [WYJ](https://github.com/xyzmr114/superset-WYJ), private founder matchmaking
+- 🧠 **Strongest at:** turning messy, real-world problems into working systems
+- ⚙️ **Digging into:** AI agents, real-time data, and low-level systems
+- 🐈 **Off the clock:** cats, horses and memes
 
 ---
 
-### 💖 Featured projects (more coming soon)
+### 🧭 What I work on
 
-| Project | What it is | Stack |
+| | Focus | Where I've done it |
 |---|---|---|
-| [**Terrametric**](https://github.com/vs-githjk/Terrametric) | Real-time field intelligence that turns soil, weather and crop stress data into insights | JavaScript |
-| [**WatchCare-AI**](https://github.com/anantp1910/WatchCare-AI) | Care-focused wearable app | Kotlin |
-| [**MyShell**](https://github.com/AnushaAgarwal27/MyShell) | A shell built from scratch | C |
+| ⚡ | **Real-time systems** | Fall detection for hospital waiting rooms, live crop-stress streaming with WebSockets |
+| 🤖 | **AI agents** | Payroll auditing with deterministic checks plus agents, private founder matching |
+| 🛠️ | **Systems programming** | A Unix shell in C with pipes, redirection, background jobs and signal handling |
+| 📱 | **Apps people use** | Alerts, dashboards and mobile-first tools |
 
 ---
 
-### 📊 Stats
+### 🚀 Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**RollPay**](https://github.com/Devaj6190/hyphenatable) · [live demo](https://rollpay-live.vercel.app/c/a) | AI payroll agent for small service companies. Syncs Jobber, QuickBooks and Gusto, runs 23 deterministic checks, and hands the owner a payroll draft that's already right | TypeScript |
+| [**WYJ**](https://github.com/xyzmr114/superset-WYJ) | Private founder matchmaking. Your local agent builds a pseudonymous matching brief, and names unlock only after both people agree | TypeScript |
+| [**Terrametric**](https://github.com/vs-githjk/Terrametric) | Real-time field intelligence that turns soil, weather and crop stress data into alerts so farmers act early | FastAPI, WebSockets, React |
+| [**WatchCare-AI**](https://github.com/anantp1910/WatchCare-AI) | Real-time fall detection and alerting for understaffed hospital waiting rooms, built at CMU's NexHacks (24 hours) | Kotlin |
+| [**mysh**](https://github.com/AnushaAgarwal27/MyShell) | A Unix shell from scratch in C for CMPSC 311: pipes, I/O redirection, background jobs, built-ins and Ctrl+C handling | C |
+
+---
+
+### 🧰 Tech I build with
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=varnikayadavpsu&show_icons=true&hide_border=true&bg_color=1a0b14&title_color=ff9ecf&icon_color=ff6fb5&text_color=f5d0e3&ring_color=ff6fb5" />
+![Python](https://img.shields.io/badge/Python-0055A0?style=for-the-badge&logo=python&logoColor=FFF8E7)
+![TypeScript](https://img.shields.io/badge/TypeScript-438BC4?style=for-the-badge&logo=typescript&logoColor=FFF8E7)
+![JavaScript](https://img.shields.io/badge/JavaScript-8CC1E9?style=for-the-badge&logo=javascript&logoColor=12284B)
+![Kotlin](https://img.shields.io/badge/Kotlin-12284B?style=for-the-badge&logo=kotlin&logoColor=FFF8E7)
+![C](https://img.shields.io/badge/C-0055A0?style=for-the-badge&logo=c&logoColor=FFF8E7)
+![React](https://img.shields.io/badge/React-438BC4?style=for-the-badge&logo=react&logoColor=FFF8E7)
+![FastAPI](https://img.shields.io/badge/FastAPI-8CC1E9?style=for-the-badge&logo=fastapi&logoColor=12284B)
+![Git](https://img.shields.io/badge/Git-12284B?style=for-the-badge&logo=git&logoColor=FFF8E7)
+![GitHub](https://img.shields.io/badge/GitHub-0055A0?style=for-the-badge&logo=github&logoColor=FFF8E7)
 
-<img src="https://streak-stats.demolab.com?user=varnikayadavpsu&hide_border=true&background=1a0b14&ring=ff6fb5&fire=ff9ecf&currStreakLabel=ff9ecf&sideLabels=ff9ecf&currStreakNum=f5d0e3&sideNums=f5d0e3&dates=c98ab0" />
+</div>
+
+---
+
+### 📊 Shipping stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=varnikayadavpsu&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&custom_title=Shipping%20Stats&bg_color=12284B&title_color=8CC1E9&icon_color=438BC4&text_color=FFF8E7" />
 
 </div>
 
@@ -64,8 +80,8 @@ I like turning small ideas into working apps, from tools that track your budget 
 
 <div align="center">
 
-*"Make it work, make it pretty, make it yours."* 🌸
+*"Make it work, make it right, make it yours."* 🌊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fb5,100:ffc2de&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:438BC4,55:0055A0,100:12284B&height=110&section=footer" width="100%" />
 
 </div>
