@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12284B,55:0055A0,100:438BC4&height=210&section=header&text=Varnika%20Yadav&fontColor=FFF8E7&fontSize=52&fontAlignY=38&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%E2%80%9928&descAlignY=60&descSize=20&descColor=8CC1E9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b2252,55:ff6fb5,100:ffc2de&height=210&section=header&text=Varnika%20Yadav&fontColor=fff0f7&fontSize=52&fontAlignY=38&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%E2%80%9928&descAlignY=60&descSize=20&descColor=ffd6e8" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=8CC1E9&center=true&vCenter=true&width=560&lines=real-time+systems+%C2%B7+AI+agents+%C2%B7+systems+in+C;24-hour+hackathon+builder;writes+unix+shells+for+fun;CS+%2B+Math+%40+Penn+State+%E2%80%9928" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=ff9ecf&center=true&vCenter=true&width=560&lines=real-time+systems+%C2%B7+AI+agents+%C2%B7+systems+in+C;24-hour+hackathon+builder;writes+unix+shells+for+fun;CS+%2B+Math+%40+Penn+State+%E2%80%9928" alt="typing" /></a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0055A0?style=for-the-badge&logo=linkedin&logoColor=FFF8E7)](https://www.linkedin.com/in/varnika-yadav-vvy5053)
-![Penn State](https://img.shields.io/badge/Penn_State-12284B?style=for-the-badge&logoColor=FFF8E7)
-![Class](https://img.shields.io/badge/Class_of_2028-438BC4?style=for-the-badge&logoColor=FFF8E7)
-![Pronouns](https://img.shields.io/badge/she%2Fher-8CC1E9?style=for-the-badge&logoColor=12284B)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6fb5?style=for-the-badge&logo=linkedin&logoColor=fff0f7)](https://www.linkedin.com/in/varnika-yadav-vvy5053)
+![Penn State](https://img.shields.io/badge/Penn_State-6b2252?style=for-the-badge&logoColor=fff0f7)
+![Class](https://img.shields.io/badge/Class_of_2028-ff85c0?style=for-the-badge&logoColor=fff0f7)
+![Pronouns](https://img.shields.io/badge/she%2Fher-ff9ecf?style=for-the-badge&logoColor=3a1030)
 
 </div>
 
 ---
 
-### 🌊 About me
+### 🌸 About me
 
 I'm a **CS + Math student at Penn State (class of 2028)** who learns by shipping.
 I've built a real-time fall-detection system at a 24-hour hackathon, a Unix shell in C from scratch, and I'm now working on AI agents for payroll and founder matching.
@@ -54,15 +54,15 @@ I've built a real-time fall-detection system at a 24-hour hackathon, a Unix shel
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0055A0?style=for-the-badge&logo=python&logoColor=FFF8E7)
-![TypeScript](https://img.shields.io/badge/TypeScript-438BC4?style=for-the-badge&logo=typescript&logoColor=FFF8E7)
-![JavaScript](https://img.shields.io/badge/JavaScript-8CC1E9?style=for-the-badge&logo=javascript&logoColor=12284B)
-![Kotlin](https://img.shields.io/badge/Kotlin-12284B?style=for-the-badge&logo=kotlin&logoColor=FFF8E7)
-![C](https://img.shields.io/badge/C-0055A0?style=for-the-badge&logo=c&logoColor=FFF8E7)
-![React](https://img.shields.io/badge/React-438BC4?style=for-the-badge&logo=react&logoColor=FFF8E7)
-![FastAPI](https://img.shields.io/badge/FastAPI-8CC1E9?style=for-the-badge&logo=fastapi&logoColor=12284B)
-![Git](https://img.shields.io/badge/Git-12284B?style=for-the-badge&logo=git&logoColor=FFF8E7)
-![GitHub](https://img.shields.io/badge/GitHub-0055A0?style=for-the-badge&logo=github&logoColor=FFF8E7)
+![Python](https://img.shields.io/badge/Python-ff6fb5?style=for-the-badge&logo=python&logoColor=fff0f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff85c0?style=for-the-badge&logo=typescript&logoColor=fff0f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff9ecf?style=for-the-badge&logo=javascript&logoColor=3a1030)
+![Kotlin](https://img.shields.io/badge/Kotlin-6b2252?style=for-the-badge&logo=kotlin&logoColor=fff0f7)
+![C](https://img.shields.io/badge/C-ff6fb5?style=for-the-badge&logo=c&logoColor=fff0f7)
+![React](https://img.shields.io/badge/React-ff85c0?style=for-the-badge&logo=react&logoColor=fff0f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-ff9ecf?style=for-the-badge&logo=fastapi&logoColor=3a1030)
+![Git](https://img.shields.io/badge/Git-6b2252?style=for-the-badge&logo=git&logoColor=fff0f7)
+![GitHub](https://img.shields.io/badge/GitHub-ff6fb5?style=for-the-badge&logo=github&logoColor=fff0f7)
 
 </div>
 
@@ -72,7 +72,7 @@ I've built a real-time fall-detection system at a 24-hour hackathon, a Unix shel
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=varnikayadavpsu&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&custom_title=Shipping%20Stats&bg_color=12284B&title_color=8CC1E9&icon_color=438BC4&text_color=FFF8E7" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=varnikayadavpsu&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&custom_title=Shipping%20Stats&bg_color=1a0b14&title_color=ff9ecf&icon_color=ff85c0&text_color=fff0f7" />
 
 </div>
 
@@ -80,8 +80,8 @@ I've built a real-time fall-detection system at a 24-hour hackathon, a Unix shel
 
 <div align="center">
 
-*"Make it work, make it right, make it yours."* 🌊
+*"Make it work, make it right, make it yours."* 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:438BC4,55:0055A0,100:12284B&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2de,55:ff6fb5,100:6b2252&height=110&section=footer" width="100%" />
 
 </div>
