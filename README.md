@@ -55,15 +55,10 @@ I like turning small ideas into working apps, from tools that track your budget 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=varnikayadavpsu&show_icons=true&hide_border=true&bg_color=1a0b14&title_color=ff9ecf&icon_color=ff6fb5&text_color=f5d0e3&ring_color=ff6fb5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnikayadavpsu&layout=compact&hide_border=true&bg_color=1a0b14&title_color=ff9ecf&text_color=f5d0e3" />
 
 <img src="https://streak-stats.demolab.com?user=varnikayadavpsu&hide_border=true&background=1a0b14&ring=ff6fb5&fire=ff9ecf&currStreakLabel=ff9ecf&sideLabels=ff9ecf&currStreakNum=f5d0e3&sideNums=f5d0e3&dates=c98ab0" />
 
 </div>
-
-### 📈 Contribution graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varnikayadavpsu&bg_color=1a0b14&color=ff9ecf&line=ff6fb5&point=ffffff&area=true&area_color=ff6fb5&hide_border=true" width="100%" />
 
 ---
 
